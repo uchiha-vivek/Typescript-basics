@@ -6,10 +6,11 @@ This repository demonstrates core TypeScript concepts using simple and clean exa
 
 ## 📌 Table of Contents
 
-1. [Basic Type Annotations](#1-basic-type-annotations)
-2. [Functions with Types](#2-functions-with-types)
-3. [Interfaces](#3-interfaces)
-4. [Union Types](#4-union-types)
+1. [Basic Type Annotations](https://github.com/uchiha-vivek/Typescript-basics/blob/main/type-annotations.ts)
+2. [Functions with Types](https://github.com/uchiha-vivek/Typescript-basics/blob/main/function-type.ts)
+3. [Interfaces](https://github.com/uchiha-vivek/Typescript-basics/blob/main/interface.ts)
+4. [Union Types](https://github.com/uchiha-vivek/Typescript-basics/blob/main/union-type.ts)
+5. [Array Implementation](https://github.com/uchiha-vivek/Typescript-basics/blob/main/array.ts)
 
 ---
 
